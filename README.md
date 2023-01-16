@@ -35,10 +35,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinhasaurabh079&theme=radical"  display=block width=70% height=auto  alt="1" >
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhasaurabh079&show_icons=true&locale=en&&theme=radical" alt="sinhasaurabh079" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sinhasaurabh079&show_icons=true&locale=en&&theme=radical" alt="sinhasaurabh079" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhasaurabh079&theme=dark&background=090021" alt="sinhasaurabh079" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinhasaurabh079&show_icons=true&locale=en&theme=radical&layout=compact" alt="sinhasaurabh079" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sinhasaurabh079&show_icons=true&locale=en&theme=radical&layout=compact" alt="sinhasaurabh079" /></p>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
