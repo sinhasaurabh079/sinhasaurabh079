@@ -7,15 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhasaurabh079&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasaurabh079" /> </p>
 
-- 🔭 I’m currently working on **Project X**
-
 - 🌱 I’m currently learning **Flutter & DSA in C++**
 
 - 🤝 I’m looking for help with **Development**
 
 - 💬 Ask me about **C & C++**
 
-- 📫 How to reach me **tympaswithsaurabh@gmail.com**
+- 📫 How to reach me **sinhasaurabh079@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
