@@ -7,13 +7,34 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhasaurabh079&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasaurabh079" /> </p>
 
-- 🌱 I’m currently learning **Flutter & DSA in C++**
+<h2 align="left">👋 About Me</h2>
 
-- 🤝 I’m looking for help with **Development**
+- Winner of KAVACH 2023 a unique National Hackathon organized by MoE’s Innovation Cell in which more
+than 500 teams participated.
+- 2nd in EmpowerHERa 24-Hour Non-Stop Hackathon organized by IEEE IIIT Delhi across 100+ teams.
+- AI/ML trainee at Nvidia Lab of GLBITM
+- Leetcode | Max Ratings: 1748 (Top 10%)
+- 2 Star @Codechef | Max Ratings: 1427
+- Codeforces | Max Ratings: 945
+- Achieved Global rank 2477 in Leetcode Biweekly Contest 122.
+- 📫 How to reach me: [Saurabh Sinha](https://www.linkedin.com/in/sinhasaurabh079)
 
-- 💬 Ask me about **C & C++**
+<br>
 
-- 📫 How to reach me **sinhasaurabh079@gmail.com**
+<h2>📚 Academic  </h2>
+
+| | |  || | 
+|-----------|-----------|-----------|-----------|-----------|
+| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.6 CGPA | Nov 21 - Current |
+| 10+2 (PCM) | <img src="[https://drive.google.com/file/d/1T0x28t2fTLSiKNZeWQ4mecw3Jxq4C7RN/view?usp=sharing](https://drive.google.com/uc?id=1YhSV-VBZRB3hcXabsVPq2wKGhPxN2ty8)" width="30" height="30"/> | DSR Modern School| 94.8% | May 18 - Jul 20 |
+
+<br>
+<h2 align="left">🥑 Open Source </h2
+                                 
+- Hacktoberfest’'22 - Open Source Contributor (Total Pr's Merged: 4)
+- SWOC  2.0 : Contributed in Algorithm repository (Total Pr's Merged: 2)
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
