@@ -25,7 +25,7 @@ than 500 teams participated.
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.6 CGPA | Nov 21 - Current |
+| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.5 CGPA | Nov 21 - Current |
 | 10+2 (PCM) | <img src="[https://drive.google.com/file/d/1T0x28t2fTLSiKNZeWQ4mecw3Jxq4C7RN/view?usp=sharing](https://drive.google.com/uc?id=1YhSV-VBZRB3hcXabsVPq2wKGhPxN2ty8)" width="30" height="30"/> | DSR Modern School| 94.8% | May 18 - Jul 20 |
 
 <br>
