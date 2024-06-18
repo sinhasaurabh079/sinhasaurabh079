@@ -13,10 +13,10 @@
 than 500 teams participated.
 - 2nd in EmpowerHERa 24-Hour Non-Stop Hackathon organized by IEEE IIIT Delhi across 100+ teams.
 - AI/ML trainee at Nvidia Lab of GLBITM
-- Leetcode | Max Ratings: 1748 (Top 10%)
+- Leetcode | Max Ratings: 1792 (Top 7.9%)
 - 2 Star @Codechef | Max Ratings: 1427
 - Codeforces | Max Ratings: 945
-- Achieved Global rank 2477 in Leetcode Biweekly Contest 122.
+- Achieved Global rank 1101 in Leetcode Weekly Contest 401.
 - 📫 How to reach me: [Saurabh Sinha](https://www.linkedin.com/in/sinhasaurabh079)
 
 <br>
